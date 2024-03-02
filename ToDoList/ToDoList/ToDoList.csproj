@@ -8,6 +8,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\ToDoList.DAL\ToDoList.DAL.csproj" />
+      <ProjectReference Include="..\ToDoList.Service\ToDoList.Service.csproj" />
     </ItemGroup>
 
     <ItemGroup>
